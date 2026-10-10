@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Sdominio```
+```bash $ git clone https://github.com/Enrik3e/Kike```
 
-```bash $ cd Sdomin```
+```bash $ cd Kike```
 
 ```bash $ pip3 install -r requirements.txt```
 
