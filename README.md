@@ -1,0 +1,2 @@
+# Kike
+Script termux 
